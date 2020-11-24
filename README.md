@@ -9,7 +9,7 @@ Version 2.0.1
 - Elitium App Beta 0.2.1<br>
 - Elitium Dashboard 1.0.4<br>
 - Elitium Staking POS/MN 1.1.2<br>
-- Elitium Crypto Card Gateway
+- Elitium Crypto Card Gateway 1.0
 <br>
 <br>
 
